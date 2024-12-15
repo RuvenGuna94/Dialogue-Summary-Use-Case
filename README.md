@@ -1,10 +1,10 @@
 ## Project Overview
-This repository contains the `dialogue_summary.ipynb` notebook, which demonstrates techniques for summarizing dialogues using Natural Language Processing (NLP) models. The project leverages state-of-the-art libraries, such as `transformers` and `datasets`, for working with pre-trained models and datasets.
+This repository contains the `dialogue_summary.ipynb` notebook, which demonstrates techniques for summarizing dialogues using the FLAN-T5 models. The project leverages libraries, such as `transformers` and `datasets`, for working with pre-trained models and datasets.
 
 ## Features
 - Summarization of dialogues using pre-trained language models.
 - Flexible customization of model parameters and datasets.
-- Visualization and analysis of results.
+- Visualization and analysis of text results.
 
 ## Prerequisites
 Ensure you have the following installed on your system:
