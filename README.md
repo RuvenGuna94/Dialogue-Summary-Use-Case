@@ -24,7 +24,10 @@ Ensure you have the following installed on your system:
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install the required dependencies
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 1. Launch the Jupyter Notebook:
