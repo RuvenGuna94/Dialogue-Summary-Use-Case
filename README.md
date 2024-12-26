@@ -14,7 +14,7 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dialogue_summary.git
+   git clone [https://github.com/your-username/dialogue_summary.git](https://github.com/RuvenGuna94/Dialogue-Summary-Use-Case)
    cd dialogue_summary
    ```
 
